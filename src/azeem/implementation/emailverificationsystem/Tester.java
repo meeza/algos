@@ -1,4 +1,4 @@
-package azeem.open.implementation.emailverificationsystem;
+package azeem.implementation.emailverificationsystem;
 
 import java.sql.SQLException;
 

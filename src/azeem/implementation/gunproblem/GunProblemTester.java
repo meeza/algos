@@ -1,6 +1,4 @@
-package azeem.open.implementation.gunproblem;
-
-import java.util.ArrayList;
+package azeem.implementation.gunproblem;
 
 /**
  *

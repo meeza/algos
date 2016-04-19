@@ -1,4 +1,4 @@
-package azeem.open;
+package azeem;
 
 public class Main {
 
